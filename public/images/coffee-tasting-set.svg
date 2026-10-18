@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f9f2ea"/>
+  <g>
+    <rect x="175" y="220" width="120" height="200" rx="24" fill="#d88c4a"/>
+    <rect x="340" y="200" width="120" height="220" rx="24" fill="#764b2a"/>
+    <rect x="505" y="230" width="120" height="190" rx="24" fill="#b7773a"/>
+  </g>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#382920">Tasting Set</text>
+</svg>

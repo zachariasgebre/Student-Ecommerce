@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#edf4f6"/>
+  <rect x="250" y="170" width="300" height="260" rx="36" fill="#1d5a6b"/>
+  <path d="M550 230H595C635 230 670 265 670 305V335C670 375 635 410 595 410H550" stroke="#6c9aa9" stroke-width="24" fill="none" stroke-linecap="round"/>
+  <rect x="280" y="220" width="240" height="170" rx="20" fill="#ebf9ff" opacity="0.55"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#1d2d35">Travel Mug</text>
+</svg>

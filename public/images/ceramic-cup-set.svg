@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f4f1ec"/>
+  <g>
+    <path d="M220 260C220 210 255 175 300 175H360C405 175 440 210 440 260V355H220Z" fill="#d9c6ad"/>
+    <path d="M440 235H490C525 235 550 260 550 295V355H440Z" fill="#c9b399"/>
+    <path d="M240 365H420V392C420 440 383 476 338 476H321C276 476 240 440 240 392Z" fill="#e8dcc8"/>
+  </g>
+  <g transform="translate(110 0)">
+    <path d="M220 260C220 210 255 175 300 175H360C405 175 440 210 440 260V355H220Z" fill="#c6a77d"/>
+    <path d="M440 235H490C525 235 550 260 550 295V355H440Z" fill="#b99868"/>
+    <path d="M240 365H420V392C420 440 383 476 338 476H321C276 476 240 440 240 392Z" fill="#d8c7aa"/>
+  </g>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#31241c">Ceramic Cups</text>
+</svg>

@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Addis Coffee & Brew
 
-## Getting Started
+A responsive student ecommerce demo for browsing Ethiopian coffee and brewing essentials, managing a cart, and submitting a delivery order request. The project has no payment processing, account system, database, or external service integration. Cart and most recent order data are stored in the current browser.
 
-First, run the development server:
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000). Use `npm run lint` for linting, `npm run build` to create the production build, and `npm run start` to serve that build.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Ten products defined in `src/data/products.js`, with local SVG illustrations in `public/images`.
+- Home page with featured products and a catalogue with category filtering and price sorting.
+- Product detail pages with availability and add-to-cart controls.
+- Cart quantities, removal, and subtotal calculated from shared product prices.
+- Required customer contact and delivery fields, validation, and an order confirmation summary.
+- Responsive layout and keyboard focus styles.
 
-## Learn More
+The order flow is a demo only. It stores the cart and latest submitted order in browser storage; it does not transmit an order to a seller.
 
-To learn more about Next.js, take a look at the following resources:
+## Project structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```text
+src/app/         App Router pages, layouts, and error states
+src/components/  Shared product, navigation, and cart components
+src/data/        Canonical product catalogue
+public/images/   Local product illustrations
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+No environment variables are currently required.

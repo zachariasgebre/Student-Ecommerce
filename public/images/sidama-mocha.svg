@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f3eadf"/>
+  <circle cx="310" cy="215" r="105" fill="#69432d"/>
+  <path d="M210 360C280 310 330 300 400 350C500 420 560 415 640 355V470H210Z" fill="#3a2721"/>
+  <path d="M160 270C230 200 310 180 400 210" stroke="#8d5a3e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <circle cx="570" cy="170" r="45" fill="#d7b089" opacity="0.7"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#36251b">Sidama Mocha</text>
+</svg>

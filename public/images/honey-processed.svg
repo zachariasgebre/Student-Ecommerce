@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f6efe6"/>
+  <circle cx="300" cy="220" r="100" fill="#cf9a4b" opacity="0.9"/>
+  <path d="M200 380C265 325 330 315 400 355C500 415 560 410 640 350V470H200Z" fill="#7d4e2c"/>
+  <path d="M175 250C260 205 330 200 405 250" stroke="#d7a45c" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <circle cx="580" cy="170" r="44" fill="#f0d9a3" opacity="0.7"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#3b2f28">Honey Processed</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#eef3f6"/>
+  <rect x="250" y="150" width="300" height="300" rx="26" fill="#c4d3d9"/>
+  <rect x="325" y="120" width="150" height="60" rx="12" fill="#7f8f96"/>
+  <path d="M380 210V380" stroke="#4f676f" stroke-width="10" stroke-linecap="round"/>
+  <path d="M300 380H500" stroke="#4f676f" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="400" cy="270" r="70" fill="#eaf6fb"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#2f3943">Brew Scale</text>
+</svg>

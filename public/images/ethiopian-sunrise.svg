@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f5efe6"/>
+  <circle cx="270" cy="220" r="90" fill="#d48b3a" opacity="0.8"/>
+  <path d="M180 360C240 300 310 290 390 340C465 385 540 385 620 325V470H180Z" fill="#6f3d1f"/>
+  <path d="M180 250C255 210 325 210 390 260" stroke="#d48b3a" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <circle cx="560" cy="190" r="50" fill="#f0d9a8" opacity="0.7"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#3a2a20">Ethiopian Sunrise</text>
+</svg>
